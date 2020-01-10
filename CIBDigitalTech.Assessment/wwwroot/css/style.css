@@ -1,0 +1,15 @@
+﻿.add-contact-icon i{
+    font-size: 40px !important;
+}
+.search-wrapper{
+    margin-top:10px;
+    margin-bottom: 20px;
+}
+
+.modal {
+    width: 25%;
+}
+
+.collection .collection-item.avatar{
+    min-height: 64px !important;
+}

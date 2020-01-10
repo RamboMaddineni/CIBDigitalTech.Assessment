@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIBDigitalTech.Assessment", "CIBDigitalTech.Assessment\CIBDigitalTech.Assessment.csproj", "{2EC88385-00B5-445E-8E4C-45F2C6C0FBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC88385-00B5-445E-8E4C-45F2C6C0FBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC88385-00B5-445E-8E4C-45F2C6C0FBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC88385-00B5-445E-8E4C-45F2C6C0FBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC88385-00B5-445E-8E4C-45F2C6C0FBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142F33B0-0C85-4D65-9D17-CB1C492F5707}
+	EndGlobalSection
+EndGlobal
